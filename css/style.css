@@ -78,6 +78,16 @@ h1{
 	font-weight: lighter;
 }
 
+h2{
+	color: #fff;
+    font-size: 100%;
+	word-spacing: 5px;
+	letter-spacing: 3px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+
 .btn{
 
 	display: inline-block;
